@@ -1,7 +1,7 @@
 ﻿{
     "Version": 5,
     "InvertMouse": false,
-    "ToggleAim": true,
+    "ToggleAim": false,
     "ToggleCrouch": false,
     "ToggleSprint": false,
     "MouseWheel": true,
